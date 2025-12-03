@@ -1,5 +1,5 @@
 # BreastCancerWisconsinVeriSeti-  
-Bu proje Google Colab ile hazırlanmıştır. Notebook’u incelemek için:https://colab.research.google.com/drive/1wklILmgfFwoVZzaLI9fJkOq8TIVVi5Kn?usp=sharing
+Bu proje Google Colab ile hazırlanmıştır. Google colabs linki :https://colab.research.google.com/drive/1wklILmgfFwoVZzaLI9fJkOq8TIVVi5Kn?usp=sharing
 
 Breast Cancer Wisconsin veri seti kullanılarak meme kanseri örneklerini benign / malignant olarak sınıflandıran bir MLP (Multilayer Perceptron) sinir ağı modeli geliştirilmiş, ardından Optuna ile hiperparametre optimizasyonu yapılmış ve modeller SHAP ile açıklanabilir hâle getirilmiştir.
 Amacımız sadece yüksek doğruluk elde etmek değildi aynı zamanda modelin karar verirken hangi özelliklere dayandığını da ortaya koymaktı.
